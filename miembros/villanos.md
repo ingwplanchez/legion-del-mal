@@ -5,3 +5,7 @@
 3. Darkseid
 4. Thanos
 
+# Notas:
+- Thanos es amigo de Loki
+- Lex Luthor es amigo de Joker
+- Thanos es amigo de Lex Luthor
