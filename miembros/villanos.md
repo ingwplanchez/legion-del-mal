@@ -4,6 +4,9 @@
 2. Joker
 3. Darkseid
 4. Thanos
+5. Magneto
+6. Loki
+7. Green Goblin
 
 # Notas:
 - Thanos es amigo de Loki
