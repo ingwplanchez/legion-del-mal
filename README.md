@@ -16,6 +16,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 📁 inteligencia/    → Expedientes de los héroes enemigos
 📄 misiones.yaml    → Estado global de todas las misiones
 📄 nuevos_desafios.yaml   → Estado de los nuevos desafíos
+📄 contactos.yaml   → Contacto de los miembros de la Legión
 ```
 
 ## El Consejo de Villanos
