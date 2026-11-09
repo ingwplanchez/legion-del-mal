@@ -1,0 +1,11 @@
+name: 'Reclutamiento'
+on: push
+jobs:
+    reporte-de-reclutamiento:
+        runs-on: ubuntu-latests
+
+        steps: 
+            - name: El agente se presenta
+              run: echo "Hola, soy agente de reclutamiento y estoy aqui para ayudarte"     
+
+
